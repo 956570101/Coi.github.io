@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Coi"
+  id="myeclipse.1531654105181"
+  context-root="/Coi"
+  j2ee-spec="5.0"
+  archive="Coi.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
